@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://awsomename.github.io/blog/welcome/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/quick-start/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/custom-plugins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/typography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/blog/typography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/blog/prototyping/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/grid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/tables/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/forms/</loc>
+    <lastmod>2017-04-10T16:40:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/buttons/</loc>
+    <lastmod>2017-04-10T16:41:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/labels/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/blog/messages/</loc>
+    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/messages/</loc>
+    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/tabs/</loc>
+    <lastmod>2017-04-10T16:41:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/breadcrumbs/</loc>
+    <lastmod>2017-04-10T16:41:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/pagination/</loc>
+    <lastmod>2017-04-10T16:42:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/dropdown/</loc>
+    <lastmod>2017-04-10T16:42:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/modal/</loc>
+    <lastmod>2017-04-10T16:42:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/sticky/</loc>
+    <lastmod>2017-04-10T16:42:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/blog/collapse/</loc>
+    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/collapse/</loc>
+    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/offcanvas/</loc>
+    <lastmod>2017-04-10T16:42:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/toggleme/</loc>
+    <lastmod>2017-04-10T16:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/animation/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/colors/</loc>
+    <lastmod>2017-04-10T16:43:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/sizing/</loc>
+    <lastmod>2017-04-10T16:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/mixins/</loc>
+    <lastmod>2017-04-10T16:43:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/utils/</loc>
+    <lastmod>2017-04-10T16:43:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/blog/inline-style/</loc>
+    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/blog/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/company/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/categories/design/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/docs/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/tags/example/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/categories/general/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/tags/hugo/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/tags/markdown/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/password-recovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/tags/prototype/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/account/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awsomename.github.io/tags/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
