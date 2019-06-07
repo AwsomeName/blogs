@@ -15,5 +15,5 @@ deploy:
     repo: AwsomeName/AwsomeName.github.io
     fqdn: <custom-domain-if-needed>
     target_branch: master
-    email: <liuchang.hit.cs@gmail.com>
-    name: <AwsomeName>
+    email: liuchang.hit.cs@gmail.com
+    name: AwsomeName
