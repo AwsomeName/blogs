@@ -1,3 +1,9 @@
 [submodule "themes/kube"]
 	path = themes/kube
 	url = https://github.com/AwsomeName/kube.git
+[submodule "themes/AllinOne"]
+	path = themes/AllinOne
+	url = https://github.com/orianna-zzo/AllinOne.git
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even.git
