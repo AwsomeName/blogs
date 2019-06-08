@@ -2,12 +2,13 @@
 title: "First Post and Record"
 date: 2019-06-08T19:53:15+08:00
 lastmod: 2019-06-08T19:53:15+08:00
-draft: true
+draft: false
 keywords: []
 description: "这是第一篇博客，是一个记录，也是一个开始"
 tags: []
 categories: ["default"]
 author: "lc"
+weight: 11
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
