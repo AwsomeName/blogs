@@ -80,17 +80,20 @@ sequenceDiagrams:
 
 通过上文，和实际考察，可以确定：
 >   syn0数组，存储每个词作为中心词的向量，也是最终的词向量。是随机初始化的
-`https://github.com/tmikolov/word2vec/blob/20c129af10659f7c50e86e3be406df663beff438/word2vec.c#L369
+```
+https://github.com/tmikolov/word2vec/blob/20c129af10659f7c50e86e3be406df663beff438/word2vec.c#L369
     for (a = 0; a < vocab_size; a++) for (b = 0; b < layer1_size; b++) {
         next_random = next_random * (unsigned long long)25214903917 + 11;
         syn0[a * layer1_size + b] = 
         (((next_random & 0xFFFF) / (real)65536) - 0.5) / layer1_size;
-    }`
-
+    }
+```
 >   syn1neg数组，存储每个词作为上下文词的向量，是零初始化的。
-`https://github.com/tmikolov/word2vec/blob/20c129af10659f7c50e86e3be406df663beff438/word2vec.c#L365
+```
+https://github.com/tmikolov/word2vec/blob/20c129af10659f7c50e86e3be406df663beff438/word2vec.c#L365
     for (a = 0; a < vocab_size; a++) for (b = 0; b < layer1_size; b++)
-        syn1neg[a * layer1_size + b] = 0;`
+        syn1neg[a * layer1_size + b] = 0;
+```
 
 核心的训练函数是：
 `TrainModelThread(void *id)`
