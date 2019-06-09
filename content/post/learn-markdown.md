@@ -39,8 +39,9 @@ sequenceDiagrams:
   options: ""
 
 ---
-
-[在线编辑器](https://pandao.github.io/editor.md/)自带文档
+[原文](http://blog.tureornot.com/2019/06/08/markdown语法学习记录/)
+还是想学一下MarkDown，正好这个
+[在线编辑器](https://pandao.github.io/editor.md/)自带文档,顺手敲了一下，挺好的教程，为了防止以后找不到，搬运至此
 
 <!--more-->
 
