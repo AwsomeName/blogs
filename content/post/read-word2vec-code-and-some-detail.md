@@ -40,7 +40,7 @@ sequenceDiagrams:
 
 ---
 
-朋友发了一个有趣的[链接](https://mp.weixin.qq.com/s?__biz=MzU3NjE4NjQ4MA==&mid=2247485614&idx=1&sn=6ff3dc634cc8a1f354695fd4e139b0b3&chksm=fd16f9b1ca6170a78e721df8d34fce70303aa67ee0d2bfb498b4d0015a2dffaa939bbe077ff1&mpshare=1&scene=24&srcid=0607FNjJEeaXpNxLNtpWugS2&pass_ticket=V5RKkOY%2BgoyS%2Bmyz2ZPNVWpSgMlbqy89xa6maVii56%2BWngb%2FbfH6eFjtcPUbLAyB#rd)过来，关于word2vec的，然后就有了这篇文章
+朋友(Q God)发了一个有趣的[链接](https://mp.weixin.qq.com/s?__biz=MzU3NjE4NjQ4MA==&mid=2247485614&idx=1&sn=6ff3dc634cc8a1f354695fd4e139b0b3&chksm=fd16f9b1ca6170a78e721df8d34fce70303aa67ee0d2bfb498b4d0015a2dffaa939bbe077ff1&mpshare=1&scene=24&srcid=0607FNjJEeaXpNxLNtpWugS2&pass_ticket=V5RKkOY%2BgoyS%2Bmyz2ZPNVWpSgMlbqy89xa6maVii56%2BWngb%2FbfH6eFjtcPUbLAyB#rd)过来，关于word2vec的，然后就有了这篇文章
 <!--more-->
 
 本文讨论了关于word2vec的经典解释：Skip-Gram模型，负采样训练。
